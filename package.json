@@ -1,0 +1,16 @@
+{
+  "name": "outro_alguem",
+  "version": "1.0.0",
+  "description": "Um repositório como pratica para o que venho aprendendo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.2.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
